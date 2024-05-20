@@ -107,7 +107,7 @@ p{
 .burgerimg{
     width: 600px;
     height: 400px;
-    background-image: url(the-ultimate-hamburger.webp);
+    background-image: url(img/the-ultimate-hamburger.webp);
     background-size: cover;
 }
 
@@ -168,17 +168,17 @@ p{
 }
 
 .foodimg1{
-    background-image: url(Fruit_Sandwich.jpg);
+    background-image: url(img/Fruit_Sandwich.jpg);
     background-size: cover;
 }
 
 .foodimg2{
-    background-image: url(beef\ cutlet\ 8.JPG);
+    background-image: url(img/beef\ cutlet\ 8.JPG);
     background-size: cover;
 }
 
 .foodimg3{
-    background-image: url(Vegetable-Spaghetti-Sauce-Recipe-Image-1-3-500x500.jpg);
+    background-image: url(img/Vegetable-Spaghetti-Sauce-Recipe-Image-1-3-500x500.jpg);
     background-size: cover;
 }
 .meals{
@@ -209,7 +209,7 @@ p{
 .reviewpage, .slide{
    width: 100%;
    height: 400px;
-   background-image: url(360_F_334409674_nfSofO5eQCjiPikrPtDz4zhfA8Ixc90F.jpg);
+   background-image: url(img/360_F_334409674_nfSofO5eQCjiPikrPtDz4zhfA8Ixc90F.jpg);
    background-size: cover;
    display: flex;
    align-items: center;
@@ -227,7 +227,7 @@ p{
     width: 90px;
     height: 90px;
     border-radius: 50%;
-    background-image: url(Black-woma.webp);
+    background-image: url(img/Black-woma.webp);
     background-size: cover;
     border: 2px solid black;
 }
